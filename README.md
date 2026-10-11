@@ -58,11 +58,11 @@ passenger types, and yearly passenger trends.
 
 ### Page 2: Airport Performance & Ranking Analysis
 
-![Airport Performance and Ranking](Screenshots/02-Airport-Performance-Ranking.png)
+![Airport Performance and Ranking](02-Airport-Performance-Ranking.png)
 
 ### Page 3: Traffic & Operational Insights
 
-![Traffic and Operational Insights](Screenshots/03-Traffic-Operational-Insights.png)
+![Traffic and Operational Insights](03-Traffic-Operational-Insights.png)
 
 ## Key Metrics
 
