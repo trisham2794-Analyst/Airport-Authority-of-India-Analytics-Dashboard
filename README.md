@@ -54,7 +54,7 @@ passenger types, and yearly passenger trends.
 
 ### Page 1: Airport Traffic & Revenue Performance
 
-![Airport Traffic and Revenue](Screenshots/01-Airport-Traffic-Revenue.png)
+![Airport Traffic and Revenue](01-Airport-Traffic-Revenue.png)
 
 ### Page 2: Airport Performance & Ranking Analysis
 
